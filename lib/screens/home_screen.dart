@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 
 // Servicio de conexión con Firebase
 // Widget que muestra cada usuario con botones de acción
-
+// ola ola ola
 // Pantalla principal tras login. Muestra la lista de usuarios.
 class HomeScreen extends StatefulWidget {
   final String email; // Se recibe desde login para mostrarlo si se desea
